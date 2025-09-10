@@ -9,17 +9,23 @@
 
 body {
     background-color: #8A51FC;
+    margin: 0;
+    height: 100vh;
+    background-image: url("assets/mapa-mundi-site.jpg");
+    background-size: cover;
+    background-position: center; 
+    background-repeat: repeat;
 }
 
 .logo {
-    width: 300px;
+    width: 150px;
     display: block;
     margin: 20px  auto
 }
 
 main {
     width: 375px;
-    background: #F4F4F4;
+    background: #cee0f7;
     border-radius: 20px;
     margin: 0 auto 40px;
     padding: 44px 24px 23px;
@@ -49,7 +55,7 @@ select, input {
 }
 
 button {
-    background: #8A51FC;
+    background: #8A51Fa;
     border-radius: 5px;
     border: none;
     width: 100%;
