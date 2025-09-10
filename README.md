@@ -6,7 +6,7 @@ Esse foi meu primeiro projeto envolvendo a complexidade do Javascript no DevClub
 <h2>## 🚀 Tecnologias
 - HTML5
 - CSS3
--JavaScript</h2>  
+- JavaScript</h2>  
 
 <h2>## 🚀 Ferramentas
 -VSCODE
